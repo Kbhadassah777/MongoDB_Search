@@ -22,4 +22,4 @@ This function searches the ‘collection’ given to find name of all the busine
 
 1.	Taken reference from http://www.movable-type.co.uk/scripts/latlong.html to find distance between two co-ordinates – using the formula stated here, defined a function called DistanceFunction.
 2.	To implement the functions used db.collection.find – to find the required values in the collection
-![image](https://github.com/Kbhadassah777/MongoDB_Search/assets/98080207/e973b1ee-9571-441f-a794-9fbb5910b722)
+
